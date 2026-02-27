@@ -1,4 +1,4 @@
-# Tugas-Mod1_Kel45
+# Tugas_Prak-SBD_Mod1-Kel45
 
 Berisi file-file Tugas Modul 1 Praktikum Sistem Basis Data. Menambahkan fitur Trash (Restore Data (individual/all data, Delete Permanen Data) dilengkapi dengan modal card untuk konfirmasi penghapusan data. 
 
